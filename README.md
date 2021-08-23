@@ -14,4 +14,5 @@
     <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_numeros.ipynb">Exercicio Numeros</a></li>
   </ol>
     </li>
+  <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/Strins_parte_um.ipynb">String<a></li>
 </ol>
