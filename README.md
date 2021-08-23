@@ -9,6 +9,7 @@
 
 <ol>
   <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Hello_Python.ipynb">Hello, Python</a></li>
-    <li>Exercicios</li>
-  <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/N%C3%BAmeros.ipynb">Números</a></li>
+  <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/N%C3%BAmeros.ipynb">Números</a>
+  <li>Exercicio
+    </li>
 </ol>
