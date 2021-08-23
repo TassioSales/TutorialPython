@@ -8,10 +8,10 @@
 <h1>INDICE</h1>
 
 <ol>
-  <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Hello_Python.ipynb">Hello, Python</a></li>
+  <li><a href = "https://github.com/TassioSales/TutorialPython/blob/masterHello_Python.ipynb">Hello, Python</a></li>
   <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/N%C3%BAmeros.ipynb">Números</a>
   <ol>
-      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_numeros.ipynb">Exercicio Numeros</a></li>
-      </ol>
+    <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_numeros.ipynb">Exercicio Numeros</a></li>
+  </ol>
     </li>
 </ol>
