@@ -16,6 +16,6 @@
     </li>
   <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/Strins_parte_um.ipynb">String<a></li>
   <ol>
-    <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_string_um.ipynb"><a>Exercicios Strings</li>
+    <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_string_um.ipynb">Exercicios Strings<a></li>
   </ol>  
 </ol>
