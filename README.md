@@ -18,5 +18,5 @@
   <ol>
     <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_string_um.ipynb">Exercicios Strings<a></li>
   </ol>
-  <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/Formacao_de_impress%C3%A3o.ipynb"></a>Formatação de impressão</li>
+  <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/Formacao_de_impress%C3%A3o.ipynb">Formatação de impressão</a></li>
 </ol>
