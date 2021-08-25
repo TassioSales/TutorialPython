@@ -24,4 +24,10 @@
       </li>
     </ol>
     </li>
+  <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/Listas.ipynb">
+       <ol>
+         <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_lista.ipynb">Exercicios Lista Basico</a>
+         </li>
+       </ol>
+  </a></li>
 </ol>
