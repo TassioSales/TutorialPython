@@ -30,4 +30,9 @@
          </li>
        </ol>
   </li>
+  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/Dicionarios.ipynb">Dicionários</a>
+    <ol>
+      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_dicionario.ipynb">Exercicios Dicionários</a></li>
+    </ol>
+    </li>
 </ol>
