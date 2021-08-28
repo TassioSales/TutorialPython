@@ -45,9 +45,9 @@
       <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_set.ipynb">Exercicios Sets</a></li>
     </ol>
     </li>
-  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/Operadores_de_compara%C3%A7%C3%A3o.ipynb">Sets</a>
+  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/Operadores_de_compara%C3%A7%C3%A3o.ipynb">Operadores de comparação</a>
     <ol>
-      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_operadores_de_comparacao.ipynb">Exercicios Sets</a></li>
+      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_operadores_de_comparacao.ipynb">Exercicios Operadores de comparação</a></li>
     </ol>
     </li>
 </ol>
