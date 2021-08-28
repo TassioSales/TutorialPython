@@ -40,9 +40,9 @@
       <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_tupla.ipynb">Exercicios Tupla</a></li>
     </ol>
     </li>
-  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/sets.ipynb">Tupla</a>
+  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/sets.ipynb">Sets</a>
     <ol>
-      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_set.ipynb">Exercicios Tupla</a></li>
+      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_set.ipynb">Exercicios Sets</a></li>
     </ol>
     </li>
 </ol>
