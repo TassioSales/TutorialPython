@@ -35,9 +35,9 @@
       <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_dicionario.ipynb">Exercicios Dicionários</a></li>
     </ol>
     </li>
-  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/tuplas.ipynb">Dicionários</a>
+  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/tuplas.ipynb">Tupla</a>
     <ol>
-      <li><a href = "ttps://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_tupla.ipynb">Exercicios Dicionários</a></li>
+      <li><a href = "ttps://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_tupla.ipynb">Exercicios Tupla</a></li>
     </ol>
     </li>
 </ol>
