@@ -55,4 +55,9 @@
       <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_condicionais.ipynb">Exercicios condicionais</a></li>
     </ol>
     </li>
+  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/for.ipynb">For</a>
+    <ol>
+      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_for.ipynb">Exercicios For</a></li>
+    </ol>
+    </li>
 </ol>
