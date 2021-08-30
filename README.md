@@ -50,4 +50,9 @@
       <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_operadores_de_comparacao.ipynb">Exercicios Operadores de comparação</a></li>
     </ol>
     </li>
+  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/if_elif_else.ipynb">IF, ELIF, ELSE</a>
+    <ol>
+      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_condicionais.ipynb">Exercicios condicionais</a></li>
+    </ol>
+    </li>
 </ol>
