@@ -60,4 +60,9 @@
       <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicio_for.ipynb">Exercicios For</a></li>
     </ol>
     </li>
+  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/while.ipynb">While</a>
+    <ol>
+      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_while.ipynb">Exercicios While</a></li>
+    </ol>
+    </li>
 </ol>
