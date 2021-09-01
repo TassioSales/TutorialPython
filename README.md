@@ -65,4 +65,14 @@
       <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_while.ipynb">Exercicios While</a></li>
     </ol>
     </li>
+  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/range.ipynb">Range</a>
+    <ol>
+      <li><a href = https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_range.ipynb">Exercicios Range</a></li>
+    </ol>
+    </li>
+  <li><a = href = "https://github.com/TassioSales/TutorialPython/blob/master/Notebooks/fun%C3%A7%C3%B5es.ipynb">Funções</a>
+    <ol>
+      <li><a href = "https://github.com/TassioSales/TutorialPython/blob/master/Exercicios%20Notebooks/exercicios_fun%C3%A7%C3%A3o.ipynb">Exercicios Funções</a></li>
+    </ol>
+    </li>
 </ol>
